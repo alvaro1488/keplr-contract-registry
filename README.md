@@ -1,3 +1,4 @@
+[osmo130mdu9a0etmeuw52qfxk73pn0ga6gawktly65g_20240310222633.csv](https://github.com/chainapsis/keplr-contract-registry/files/14554524/osmo130mdu9a0etmeuw52qfxk73pn0ga6gawktly65g_20240310222633.csv)
 # Guidelines for Submitting CW20 token to Keplr Extension
 
 This page outlines the basic information that is required for registering CW20 tokens to Keplr Extension's "Add Token"(in its hamburger menu) list. Keplr team will go through a minimal verification process to see if there are any security issues or missing information.
